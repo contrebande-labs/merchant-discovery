@@ -17,6 +17,10 @@ https://schema.org/Rating
 https://schema.org/EndorsementRating
 https://schema.org/Person
 https://schema.org/Organization
+https://schema.org/DiscoverAction
+https://schema.org/MoneyTransfer
+https://schema.org/APIReference
+
 
 
 https://schema.org/SiteNavigationElement
@@ -31,6 +35,11 @@ https://developers.google.com/search/docs/advanced/structured-data/sd-policies
 https://schema.org/docs/gs.html
 https://developers.google.com/search/docs/advanced/guidelines/webmaster-guidelines
 https://sherpas.design/blogs/e-commerce/structured-data-for-shopify
+https://developers.google.com/search/docs/advanced/structured-data/breadcrumb
+https://developers.google.com/search/docs/advanced/structured-data/faqpage
+https://developers.google.com/search/docs/advanced/structured-data/qapage
+https://developers.google.com/search/docs/advanced/structured-data/logo
+https://developers.google.com/search/docs/advanced/structured-data/product
 
 https://schema.org/WebSite
 https://schema.org/AboutPage
@@ -59,11 +68,11 @@ https://schema.org/CheckoutPage
 
 
 
-https://schema.org/DiscoverAction
-https://schema.org/MoneyTransfer
-https://schema.org/APIReference
 
 
+https://developers.google.com/search/docs/advanced/structured-data/article
+https://developers.google.com/search/docs/advanced/structured-data/dataset
+https://developers.google.com/search/docs/advanced/structured-data/how-to
 https://bioschemas.org/
 https://bioschemas.org/profiles/MolecularEntity/0.5-RELEASE
 https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE

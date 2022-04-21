@@ -2,6 +2,10 @@
 Ligthning Network Merchant Discovery Protocol
 
 
+Protocole pour la découverte automatique de marchands via le Lightning Network de Bitcoin.
+
+OpenBazaar, Monero.
+
 https://schema.org http://github.com/schemaorg/schemaorg
 https://json-ld.org https://github.com/json-ld/json-ld.org
 https://json-schema.org 
@@ -73,6 +77,10 @@ https://schema.org/CheckoutPage
 https://developers.google.com/search/docs/advanced/structured-data/article
 https://developers.google.com/search/docs/advanced/structured-data/dataset
 https://developers.google.com/search/docs/advanced/structured-data/how-to
+
+
+
+
 https://bioschemas.org/
 https://bioschemas.org/profiles/MolecularEntity/0.5-RELEASE
 https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE
@@ -107,3 +115,9 @@ https://github.com/io-informatics/jackson-jsonld
 https://github.com/google/schemaorg-java
 https://github.com/kropp/jsonld-metadata
 https://vertx.io/docs/vertx-json-schema/java/
+
+https://github.com/lnbits/lnbits-legend
+
+https://medium.com/@Judezhu87/running-bitcoind-node-on-kubernetes-1d833212b1a
+https://tigran.tech/scaling-bitcoin-node-with-kubernetes/
+https://github.com/coderiseio/bitcoin-core-kubernetes

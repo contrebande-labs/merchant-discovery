@@ -1,14 +1,13 @@
 # merchant-discovery
-Ligthning Network Merchant Discovery Protocol
+Ligthning Network Merchant Discovery Protocol. *Protocole pour la découverte automatique de relations commerciales via le réseau Lightning de Bitcoin.*
 
+C'est en français parce que c'est d'même. *Cry harder*, comme qu'y disaient.
 
-Protocole pour la découverte automatique de marchands via le Lightning Network de Bitcoin.
+L'objet de cette spécification est un ensemble de formats de données permettant la découverte de fournisseurs et de clients à partir des noeuds LN respectifs desdits acteurs économiques. L'esprit du présent document est d'utiliser au maximum les technologies et standards libres existants. Leur simple agencement est donc ici proposé afin de permettre la négotiaction et l'exécution automatiques de contrats commerciaux de gré à gré dans une justice économique décentralisée.
 
-OpenBazaar, Monero.
+Afin de simplifier, comme [Umbrel](https://getumbrel.com/), [Raspibolt](https://raspibolt.org/) ou [Raspiblitz](https://raspiblitz.org). [Éclair](https://github.com/ACINQ/eclair), [Core Lightning](https://github.com/ElementsProject/lightning) ou [LND](https://github.com/lightningnetwork/lnd). [Liste de projets autour du Lightning Network](https://github.com/bcongdon/awesome-lightning-network).
 
-https://schema.org http://github.com/schemaorg/schemaorg
-https://json-ld.org https://github.com/json-ld/json-ld.org
-https://json-schema.org 
+[Schema.org](https://schema.org) et [JSON-LD](https://json-ld.org)
 
 https://schema.org/BusinessFunction
 https://schema.org/Offer
@@ -26,86 +25,25 @@ https://schema.org/MoneyTransfer
 https://schema.org/APIReference
 
 
+S'inspirant probablement de l'[interface de programmation d'avant-boutique par Shopify en GraphQL](https://shopify.dev/api/storefront), probablement en utilisant aussi [gRPC](https://grpc.io) puisque nous souhaitons l'automatisation des interactions commerciales (machine à machine) et pas seulement la construction d'interfaces graphiques (humain à machine).
 
-https://schema.org/SiteNavigationElement
-https://schema.org/WPSideBar
-https://schema.org/WPHeader
-https://schema.org/WPFooter
-
-https://spec.edmcouncil.org/fibo/schema
-http://www.heppnetz.de/projects/goodrelations/
-
-https://developers.google.com/search/docs/advanced/structured-data/sd-policies
-https://schema.org/docs/gs.html
-https://developers.google.com/search/docs/advanced/guidelines/webmaster-guidelines
-https://sherpas.design/blogs/e-commerce/structured-data-for-shopify
-https://developers.google.com/search/docs/advanced/structured-data/breadcrumb
-https://developers.google.com/search/docs/advanced/structured-data/faqpage
-https://developers.google.com/search/docs/advanced/structured-data/qapage
-https://developers.google.com/search/docs/advanced/structured-data/logo
-https://developers.google.com/search/docs/advanced/structured-data/product
-
-https://schema.org/WebSite
-https://schema.org/AboutPage
-https://schema.org/BusinessEntityType
-https://schema.org/Brand
-https://schema.org/ContactPage
-https://schema.org/ContactPoint
-https://schema.org/FAQPage
-https://schema.org/WarrantyScope
-https://schema.org/MerchantReturnPolicy
-https://schema.org/MerchantReturnPolicySeasonalOverride
-https://schema.org/PaymentMethod
-https://schema.org/CollectionPage
-https://schema.org/ItemList
-https://schema.org/ListItem
-https://schema.org/ProductCollection
-https://schema.org/SearchResultsPage
-https://schema.org/ItemPage
-https://schema.org/Product
-https://schema.org/SizeSpecification
-https://schema.org/CompoundPriceSpecification
-https://schema.org/UnitPriceSpecification
-https://schema.org/ItemAvailability
-https://schema.org/DeliveryMethod
-https://schema.org/CheckoutPage
+https://github.com/lightning/bolts/blob/60550f989b56ce5009821449980d9bca7e63cb74/04-onion-routing.md
+https://github.com/lightning/bolts/blob/60550f989b56ce5009821449980d9bca7e63cb74/12-offer-encoding.md
 
 
 
 
+## [Infrastructure à clé publiques (PKI)](https://fr.wikipedia.org/wiki/Infrastructure_%C3%A0_cl%C3%A9s_publiques)
 
-https://developers.google.com/search/docs/advanced/structured-data/article
-https://developers.google.com/search/docs/advanced/structured-data/dataset
-https://developers.google.com/search/docs/advanced/structured-data/how-to
+https://github.com/cert-manager/cert-manager
+https://github.com/malikzh/NCANode
+https://github.com/xipki/xipki
+https://github.com/cloudflare/cfssl
+https://github.com/dogtagpki/pki
+https://github.com/Keyfactor/ejbca-ce
+https://github.com/openxpki/openxpki
 
-
-
-
-https://bioschemas.org/
-https://bioschemas.org/profiles/MolecularEntity/0.5-RELEASE
-https://bioschemas.org/profiles/ChemicalSubstance/0.4-RELEASE
-https://bioschemas.org/profiles/DataCatalog/0.3-RELEASE-2019_07_01
-https://bioschemas.org/profiles/Dataset/0.3-RELEASE-2019_06_14
-https://bioschemas.org/profiles/Taxon/0.6-RELEASE
-https://schema.org/MolecularEntity
-https://schema.org/ChemicalSubstance
-https://schema.org/DataCatalog
-https://schema.org/Dataset
-https://schema.org/Recipe --> Formula ?
-https://schema.org/DangerousGoodConsideration
-https://schema.org/HealthcareConsideration
-https://schema.org/AlcoholConsideration
-https://schema.org/Taxon
-https://schema.org/Blog
-https://schema.org/BlogPosting
-https://schema.org/ScholarlyArticle
-https://schema.org/Quotation
-https://schema.org/TechArticle
-https://schema.org/HowTo
-https://schema.org/HowToSection
-https://schema.org/HowToStep
-https://schema.org/HowToDirection
-https://schema.org/HowToTip
+## Java
 
 
 https://github.com/apache/any23
@@ -114,9 +52,9 @@ https://github.com/filip26/titanium-json-ld
 https://github.com/io-informatics/jackson-jsonld
 https://github.com/google/schemaorg-java
 https://github.com/kropp/jsonld-metadata
-https://vertx.io/docs/vertx-json-schema/java/
 
-https://github.com/lnbits/lnbits-legend
+
+## Kubernetes
 
 https://medium.com/@Judezhu87/running-bitcoind-node-on-kubernetes-1d833212b1a
 https://tigran.tech/scaling-bitcoin-node-with-kubernetes/

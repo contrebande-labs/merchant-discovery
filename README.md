@@ -5,26 +5,25 @@ C'est en français parce que c'est d'même. *Cry harder*, comme qu'y disaient.
 
 L'objet de cette spécification est un ensemble de formats de données permettant la découverte de fournisseurs et de clients à partir des noeuds LN respectifs desdits acteurs économiques. L'esprit du présent document est d'utiliser au maximum les technologies et standards libres existants. Leur simple agencement est donc ici proposé afin de permettre la négotiaction et l'exécution automatiques de contrats commerciaux de gré à gré dans une justice économique décentralisée.
 
-Afin de simplifier, comme [Umbrel](https://getumbrel.com/), [Raspibolt](https://raspibolt.org/) ou [Raspiblitz](https://raspiblitz.org). [Éclair](https://github.com/ACINQ/eclair), [Core Lightning](https://github.com/ElementsProject/lightning) ou [LND](https://github.com/lightningnetwork/lnd). [Liste de projets autour du Lightning Network](https://github.com/bcongdon/awesome-lightning-network).
+Afin de simplifier, comme [Umbrel](https://getumbrel.com/), [Raspibolt](https://raspibolt.org/) ou [Raspiblitz](https://raspiblitz.org). [Éclair](https://github.com/ACINQ/eclair), [Core Lightning](https://github.com/ElementsProject/lightning) ou [LND](https://github.com/lightningnetwork/lnd). [Liste de projets autour du Lightning Network](https://github.com/bcongdon/awesome-lightning-network). Mettre un nom de domaine comme nom de de noeud LN.
 
-[Schema.org](https://schema.org) et [JSON-LD](https://json-ld.org)
+Représentation [JSON-LD](https://json-ld.org) des ontologies de [Schema.org](https://schema.org)
+http://purl.org/goodrelations/
 
-https://schema.org/BusinessFunction
-https://schema.org/Offer
-https://schema.org/OfferForPurchase
-https://schema.org/Demand
-https://schema.org/Order
-https://schema.org/OrderItem
-https://schema.org/Invoice
-https://schema.org/Rating
-https://schema.org/EndorsementRating
 https://schema.org/Person
 https://schema.org/Organization
-https://schema.org/DiscoverAction
-https://schema.org/MoneyTransfer
-https://schema.org/APIReference
+https://schema.org/Offer
+https://schema.org/Demand
 
+https://schema.org/APIReference
 S'inspirant probablement de l'[interface de programmation d'avant-boutique par Shopify en GraphQL](https://shopify.dev/api/storefront), probablement en utilisant aussi [gRPC](https://grpc.io) puisque nous souhaitons l'automatisation des interactions commerciales (machine à machine) et pas seulement la construction d'interfaces graphiques (humain à machine).
+[EDI](https://fr.wikipedia.org/wiki/Échange_de_données_informatisé)
+
+
+https://schema.org/DiscoverAction
+https://schema.org/Rating
+https://schema.org/EndorsementRating
+
 
 Idéalement, d'incorporer éventuellement le protocole gRPC dans les messages "onion" de LN directement : 
 

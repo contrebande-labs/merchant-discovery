@@ -24,8 +24,9 @@ https://schema.org/DiscoverAction
 https://schema.org/MoneyTransfer
 https://schema.org/APIReference
 
-
 S'inspirant probablement de l'[interface de programmation d'avant-boutique par Shopify en GraphQL](https://shopify.dev/api/storefront), probablement en utilisant aussi [gRPC](https://grpc.io) puisque nous souhaitons l'automatisation des interactions commerciales (machine à machine) et pas seulement la construction d'interfaces graphiques (humain à machine).
+
+Idéalement, d'incorporer éventuellement le protocole gRPC dans les messages "onion" de LN directement : 
 
 https://github.com/lightning/bolts/blob/60550f989b56ce5009821449980d9bca7e63cb74/01-messaging.md
 https://github.com/lightning/bolts/blob/60550f989b56ce5009821449980d9bca7e63cb74/04-onion-routing.md
@@ -49,7 +50,6 @@ https://github.com/solokeys
 https://github.com/trussed-dev
 
 ## Java
-
 
 https://github.com/apache/any23
 https://github.com/jsonld-java/jsonld-java

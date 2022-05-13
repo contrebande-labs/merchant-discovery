@@ -10,7 +10,7 @@ C'est en français parce que c'est d'même. *Cry harder*, comme qu'y disaient.
 
 1) Démarrez et maintenez un noeud Bitcoin Lightning Network.
 2) Mettez l'URL (Tor/HTTP ou DNS/TCP/IP/HTTP) de votre commerce électronique comme alias pour votre noeud créé à l'étape #1.
-3) Chercher parmi les noeuds du réseau Bitcoin Lightning Network ceux qui annoncent des offres et des appels d'offres dans leur alias, comme à l'étape #2, et ouvrez des canaux vers les noeuds qui vous intéressent.
+3) Chercher parmi les noeuds du réseau Bitcoin Lightning Network ceux qui annoncent des offres et des appels d'offres dans leur alias comme à l'étape #2, et ouvrez des canaux vers les noeuds les marchands qui vous intéressent.
 
 ## Comment j'ai appris à ne plus m'en faire et à aimer ma souveraineté
 

@@ -136,7 +136,7 @@ Ligthning est ce que Bitcoin était à ses début: excitant et fraternel. Laisso
 
 # Capacité entrante, rebalancement et routage LN
 * https://github.com/bitrefill/thor-api-doc
-* https://www.bitrefill.com/thor-lightning-network-channels
+* https://github.com/synonymdev/blocktank-server
 * https://coincept.com
 * https://github.com/lnd-routing/lnd-routing
 * https://amboss.space/magma

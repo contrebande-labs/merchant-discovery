@@ -134,6 +134,10 @@ Ligthning est ce que Bitcoin était à ses début: excitant et fraternel. Laisso
 # Transactions réversibles
 * https://acinq.github.io/eclair/#createinvoice
 
+# Taux de change
+* https://api.newton.co/dashboard/api/rates/
+* https://api.shakepay.com/rates
+
 # Capacité entrante, rebalancement et routage LN
 * https://github.com/bitrefill/thor-api-doc
 * https://github.com/synonymdev/blocktank-server

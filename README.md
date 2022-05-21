@@ -32,6 +32,10 @@ https://schema.org/Demand).
 Une [interface](https://schema.org/APIReference) de commerce électronique doit être exposée par les agents dans le système en s'inspirant probablement de [EDI](https://fr.wikipedia.org/wiki/Échange_de_données_informatisé) et de l'[interface de programmation d'avant-boutique par Shopify en GraphQL](https://shopify.dev/api/storefront), probablement en utilisant aussi [gRPC](https://grpc.io) puisque l'automatisation des interactions commerciales (machine à machine) et pas seulement la construction d'interfaces graphiques (humain à machine) sont visées ici. [OpenBazaar](https://github.com/OpenBazaar/openbazaar-go)
 
 
+https://www.gs1.org/voc/?show=classes
+https://schema.org/WebAPI
+
+
 Ultimement, Incluant mais ne se limitant pas de , de tourisme, de solidarité, d'immigration et de relève selon les différents modèles de maison possibles : monastère (retraite, hotellerie, noviciat, voeux, règle, fondations), ermitage, commune, territoires, famille nucléaire, actionnariat, compagnonnage, garçonnière, mariages, concubinages, alliances, défense, représentation, litigation, médiation, réputation (stabilité, crédit, solidarité), assurances, etc.
 
 

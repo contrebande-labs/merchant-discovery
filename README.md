@@ -73,6 +73,17 @@ Ligthning est ce que Bitcoin était à ses début: excitant et fraternel. Laisso
 - Turing-incomplétude des contrats
 - Gaspillage des externalités et centralisation de la frappe
 
+## lngRPC
+
+https://github.com/grpc/grpc/blob/master/doc/server-reflection.md
+https://github.com/grpc/grpc/blob/master/doc/server_reflection_tutorial.md
+https://github.com/grpc/grpc-java/blob/master/documentation/server-reflection-tutorial.md
+https://github.com/grpc/grpc/blob/master/doc/compression.md
+https://github.com/grpc/grpc/blob/master/doc/compression_cookbook.md
+https://github.com/grpc/grpc/blob/master/doc/http-grpc-status-mapping.md
+https://github.com/grpc/grpc/blob/master/doc/statuscodes.md
+
+
 ## Infrastructure à clés publiques (PKI)
 
 * https://github.com/cert-manager/cert-manager

@@ -82,6 +82,29 @@ https://github.com/grpc/grpc/blob/master/doc/compression.md
 https://github.com/grpc/grpc/blob/master/doc/compression_cookbook.md
 https://github.com/grpc/grpc/blob/master/doc/http-grpc-status-mapping.md
 https://github.com/grpc/grpc/blob/master/doc/statuscodes.md
+https://github.com/protocolbuffers/protobuf/blob/main/docs/implementing_proto3_presence.md
+https://github.com/protocolbuffers/protobuf/blob/main/docs/field_presence.md
+https://github.com/protocolbuffers/protobuf/blob/main/docs/jvm_aot.md
+https://developers.google.com/protocol-buffers/docs/proto#options
+
+https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/any.proto
+https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/api.proto
+https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/descriptor.proto
+https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/duration.proto
+https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/field_mask.proto
+https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/source_context.proto
+https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/struct.proto
+https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/timestamp.proto
+https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/type.proto
+https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/wrappers.proto
+https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/compiler/plugin.proto
+
+https://github.com/grpc-ecosystem/grpc-gateway
+https://github.com/ysugimoto/grpc-graphql-gateway
+https://github.com/confluentinc/schema-registry
+https://github.com/chrusty/protoc-gen-jsonschema
+https://github.com/Embedded-AMS/EmbeddedProto
+https://github.com/google/gnostic
 
 
 ## Infrastructure à clés publiques (PKI)

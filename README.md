@@ -87,6 +87,9 @@ https://github.com/protocolbuffers/protobuf/blob/main/docs/field_presence.md
 https://github.com/protocolbuffers/protobuf/blob/main/docs/jvm_aot.md
 https://developers.google.com/protocol-buffers/docs/proto#options
 
+https://json-ld.org/spec/latest/json-ld/
+https://schema.org/docs/jsonldcontext.json
+
 https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/any.proto
 https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/api.proto
 https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/descriptor.proto

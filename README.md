@@ -112,6 +112,18 @@ https://github.com/google/gnostic
 https://github.com/pseudomuto/protoc-gen-doc
 https://github.com/os72/protobuf-dynamic
 
+## noeud lightning embarqué (pour jvm)
+https://github.com/ACINQ/lightning-kmp/blob/master/src/jvmTest/kotlin/fr/acinq/lightning/Node.kt
+https://github.com/ACINQ/lightning-kmp/blob/master/src/commonMain/kotlin/fr/acinq/lightning/utils/Connection.kt
+https://github.com/ACINQ/lightning-kmp/blob/master/src/commonMain/kotlin/fr/acinq/lightning/io/TcpSocket.kt
+https://github.com/ACINQ/lightning-kmp/blob/master/src/jvmMain/kotlin/fr/acinq/lightning/io/JvmTcpSocket.kt
+https://github.com/ACINQ/lightning-kmp/tree/master/src/commonMain/kotlin/fr/acinq/lightning/db
+https://github.com/ACINQ/lightning-kmp/blob/master/src/jvmTest/kotlin/fr/acinq/lightning/io/JvmTcpSocketTests.kt
+https://vertx.io/docs/vertx-core/kotlin/
+https://boltz.exchange/
+https://amboss.space/magma
+
+
 ## porte-feuilles légers (lnurl, neutrino, electrum)
 
 https://github.com/lightninglabs/neutrino

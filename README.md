@@ -90,6 +90,7 @@ https://developers.google.com/protocol-buffers/docs/proto#options
 https://json-ld.org/spec/latest/json-ld/
 https://schema.org/docs/jsonldcontext.json
 
+https://github.com/googleapis/googleapis/tree/master/google/rpc
 https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/any.proto
 https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/api.proto
 https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/descriptor.proto
@@ -108,7 +109,31 @@ https://github.com/confluentinc/schema-registry
 https://github.com/chrusty/protoc-gen-jsonschema
 https://github.com/Embedded-AMS/EmbeddedProto
 https://github.com/google/gnostic
+https://github.com/pseudomuto/protoc-gen-doc
+https://github.com/os72/protobuf-dynamic
 
+## porte-feuilles légers (lnurl, neutrino, electrum)
+
+https://github.com/lightninglabs/neutrino
+https://github.com/fiatjaf/lnurl-rfc
+https://github.com/kyuupichan/electrumx
+https://github.com/chris-belcher/electrum-personal-server
+https://github.com/jonasschnelli/bitcoincore-indexd
+https://github.com/Blockstream/electrs
+https://github.com/romanz/electrs
+https://electrum.readthedocs.io/en/latest/protocol.html
+https://blockonomi.com/bitcoin-lightning-network-neutrino-protocol/
+https://blockonomi.com/submarine-swaps/
+https://1209k.com/bitcoin-eye/ele.php
+https://github.com/spesmilo/electrum/blob/master/electrum/servers.json
+https://www.veriphi.io/en/blog/lightning-wallet-architecture
+https://jimmysong.substack.com/p/future-of-light-wallets-bitcoin-tech
+https://bitcoinmagazine.com/culture/neutrino-privacy-preserving-light-wallet-protocol
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-June/014474.html
+https://bitcoinops.org/en/topics/compact-block-filters/
+https://github.com/bitcoin/bips/blob/master/bip-0157.mediawiki
+https://github.com/bitcoin/bips/blob/master/bip-0158.mediawiki
+https://github.com/breez/breezmobile
 
 ## Infrastructure à clés publiques (PKI)
 
